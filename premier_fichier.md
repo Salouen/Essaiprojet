@@ -1,0 +1,1 @@
+Un joli fichier qui va contenir les explications de pourquoi je veux apprendre à coder
